@@ -1,0 +1,9 @@
+Model: mobileBERT 
+ Settings: ((1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (1, 0, 0, 0, 0)) 
+ Training on: CPU
+ 	 #######################   EPOCH 1   ##############################
+ 
+This Epoch has 866 training instances
+Training instances per batch: 8 
+ Number of batches: 100
+
